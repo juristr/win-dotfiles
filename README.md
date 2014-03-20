@@ -10,9 +10,13 @@ This repo aims at bringing some of [Paul Irish's dotfiles](https://github.com/pa
 
 So far, simply clone this repo and the according files to your bash home (~). A proper sync mechanism will be added soon.
 
-### Suggested shell
+## No...not the Windows Command Prompt, use a decent shell
 
 Please don't use the standard Windows prompt...instead install
 
 - Git and according Git Bash
 - [ConEmu](https://code.google.com/p/conemu-maximus5/)
+
+## Contributions..
+
+..are more than welcome! That's the whole point of sharing here on GitHub after all..
